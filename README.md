@@ -3,15 +3,18 @@ Homologación de Universidades
 
 
 # Tratamiento
-## Tratameinto de los datos y cargas de archivos en su respectivo formato 
+## Tratamiento de los datos y cargas de archivos en su respectivo formato 
+Código empleado para el:
 [Tratamiento](https://github.com/Jhlirion/krowdy/blob/main/tratamiento.py)
 
-[sinonimos_universidade.json](https://github.com/Jhlirion/krowdy/blob/main/Datos/sinonimos_universidade.json)
+Archivo guardado como JSON:
+[sinonimos_universidade](https://github.com/Jhlirion/krowdy/blob/main/Datos/sinonimos_universidade.json)
 
-[universidad_homologada.csv](https://github.com/Jhlirion/krowdy/blob/main/Datos/universidad_homologada.csv)
+Archivo guardado como CSV:
+[universidad_homologada](https://github.com/Jhlirion/krowdy/blob/main/Datos/universidad_homologada.csv)
 
 
 # Funciones
-## las funciones creadas la homologación y dicionario de sinonios
+Las funciones creadas para la homologación y dicionario de sinónios:
 
 [Funiciones](https://github.com/Jhlirion/krowdy/blob/main/funciones.py)
